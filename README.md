@@ -417,7 +417,8 @@ Get rid of the x; leave the colons on either side. This will eliminate the need 
 You probably then want to create a new password by using the passwd command after you log in.
 
 The right thing to do is to create a new hash and store it in place of x.
-not yet sure how that can be done a previous student from the class may have been aboe to do that 
+not yet sure how that can be done a previous student from the class may have
+ been able to do that 
 Bertholt is firstname.
 
 could this work? <https://unix.stackexchange.com/questions/81240/manually-generate-password-for-etc-shadow>
