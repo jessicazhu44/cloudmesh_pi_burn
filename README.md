@@ -27,7 +27,7 @@ the ssh key authentication is enabled.
 
 The process of the burn is as follows.
 
-1. start the programm with the appropriate parameters the program will
+1. start the program with the appropriate parameters the program will
    ask you to place an SD Card in the SD Card writer. Place it in
 2. the specified image will be burned on the SD Card
 3. next the SD Card will be mounted by the program and the appropriate
